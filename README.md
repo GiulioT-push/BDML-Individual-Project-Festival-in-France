@@ -2,11 +2,11 @@
 
 BDML Individual Project: Data Visualization, Data Storytelling & Business Intelligence
 
-## 1. Problem & Context
+## Problem & Context
 
 Festivals are a major driver of cultural life, tourism and local economies, but their distribution across France is uneven. This dashboard helps a decision-maker see **where festivals are concentrated, which disciplines dominate, when they take place, and which territories are under-served**.
 
-## 4. Dataset
+## Dataset
 
 | Item | Detail |
 |---|---|
